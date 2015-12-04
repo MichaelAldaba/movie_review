@@ -7,3 +7,5 @@ Mackenzie Child's 12 in 12 Challenge in 2 weeks.
 2: Plungr = blog app
 
 3: Fitemize = workout log app
+
+4: Linkit = reddit clone

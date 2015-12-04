@@ -1,6 +1,6 @@
 Mackenzie Child’s 12 in 12 Challenge
 
 Week 2:
-How to build a blog in Rails 4
+How To Build A Blog In Rails 4
 
 -devise

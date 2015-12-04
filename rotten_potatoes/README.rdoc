@@ -1,7 +1,7 @@
 Mackenzie Child’s 12 in 12 Challenge
 
 Week 5:
-How to Build a Movie Review App with Rails 4
+How To Build A Movie Review App With Rails 4
 
 -bootstrap
 -devise
