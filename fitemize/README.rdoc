@@ -1,7 +1,4 @@
-Mackenzie Child’s 12 in 12 Challenge
-
-Week 8:
-How To Build A Workout Log In Rails 4
+App 3: How To Build A Workout Log In Rails 4
 
 -bootstrap
 -haml
