@@ -10,4 +10,6 @@ Based on Mackenzie Child's 12 in 12 Challenge
 
 4: linkit = reddit clone
 
-5: getdone = todo app
+5: GetDone = todo app
+
+6: SimplyJobs = jobs board app
