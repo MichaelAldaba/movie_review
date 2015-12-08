@@ -1,7 +1,7 @@
 App 7: How To Build A Wikipedia Clone With Rails 4
 
-bootstrap
-devise
-haml
-hipster ipsum
-simple form
+-bootstrap
+-devise
+-haml
+-hipster ipsum
+-simple form
