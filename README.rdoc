@@ -15,3 +15,5 @@ Based on Mackenzie Child's 12 in 12 Challenge
 6: SimplyJobs = jobs board app
 
 7: Wikinac = wikipedia clone
+
+8: MassOverload = forum app
